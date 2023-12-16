@@ -124,3 +124,82 @@ Key elements:
 ```
 
 These HTML essentials provide the groundwork for creating well-structured and visually appealing web content. Understanding these concepts is crucial for anyone venturing into web development.
+
+## Semantic HTML Tags
+
+Semantic HTML tags provide meaning to the content they enclose, making it easier for both browsers and developers to understand the structure and purpose of the content. Here are some essential semantic tags along with examples:
+
+### `<header>`
+
+Represents the header of a document or a section.
+
+```html
+<header>
+    <h1>Website Title</h1>
+    <p>Welcome to our amazing website!</p>
+</header>
+```
+
+### `<nav>`
+
+Represents a navigation menu.
+
+```html
+<nav>
+    <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About Us</a></li>
+        <li><a href="#contact">Contact</a></li>
+    </ul>
+</nav>
+```
+
+### `<main>`
+
+Represents the main content of the document.
+
+```html
+<main>
+    <article>
+        <h2>Article Title</h2>
+        <p>Content of the article goes here.</p>
+    </article>
+</main>
+```
+
+### `<section>`
+
+Represents a section of a document.
+
+```html
+<section>
+    <h2>Section Title</h2>
+    <p>Content of the section goes here.</p>
+</section>
+```
+
+### `<aside>`
+
+Represents content that is tangentially related to the content around it.
+
+```html
+<aside>
+    <h3>Related Links</h3>
+    <ul>
+        <li><a href="#link1">Link 1</a></li>
+        <li><a href="#link2">Link 2</a></li>
+    </ul>
+</aside>
+```
+
+### `<footer>`
+
+Represents the footer of a document or a section.
+
+```html
+<footer>
+    <p>&copy; 2023 Website Name</p>
+</footer>
+```
+
+These semantic tags enhance the clarity and structure of your HTML code, making it more accessible and maintainable.
