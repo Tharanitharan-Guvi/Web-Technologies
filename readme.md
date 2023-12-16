@@ -9,7 +9,7 @@ In this session, we delve into the fundamentals of HTML, CSS, and JavaScript to 
 ## Contents
 
 1. [HTML Topics](/HTML)
-
+2. [CSS Topics](/CSS)
 
 ## Usage
 
