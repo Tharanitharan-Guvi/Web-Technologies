@@ -10,6 +10,7 @@ In this session, we delve into the fundamentals of HTML, CSS, and JavaScript to 
 
 1. [HTML Topics](/HTML)
 2. [CSS Topics](/CSS)
+3. [JavaScript Topics](/JS)
 
 ## Usage
 
