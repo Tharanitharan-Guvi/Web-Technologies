@@ -86,6 +86,7 @@ document.body.removeChild(elementById);
 
 ### Example Talked in Class
 
+#### index.html
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -101,7 +102,7 @@ document.body.removeChild(elementById);
   </body>
 </html>
 ```
-
+#### main.js
 ```javascript
 // Basic Structure of a To-Do App
 
